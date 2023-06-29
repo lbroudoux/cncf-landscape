@@ -3044,7 +3044,6 @@ landscape:
             project: sandbox
             repo_url: https://github.com/kube-rs/kube-rs
             logo: kube-rs.svg
-            twitter: https://twitter.com/kube_rs
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
               accepted: '2021-11-16'
@@ -3054,6 +3053,8 @@ landscape:
               chat_channel: '#kube'
               artwork_url: https://github.com/cncf/artwork/blob/master/examples/sandbox.md#kube-rs-logos
               clomonitor_name: kube-rs
+              annual_review_url: https://github.com/cncf/toc/pull/1087
+              annual_review_date: '2023-06-16'
           - item:
             name: Kubernetes
             description: Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications
@@ -3472,7 +3473,6 @@ landscape:
             homepage_url: https://metallb.universe.tf
             repo_url: https://github.com/metallb/metallb
             logo: metallb.svg
-            twitter: https://twitter.com/dave_universetf
             crunchbase: https://www.crunchbase.com/organization/metallb
             extra:
               accepted: '2021-09-14'
@@ -7786,6 +7786,8 @@ landscape:
               summary_integration: Knative, Dapr, KEDA, Shipwright, Kubernetes Gateway API, Contour
               summary_intro_url: https://openfunction.dev/docs/
               clomonitor_name: openfunction
+              annual_review_url: https://github.com/cncf/toc/pull/1097
+              annual_review_date: '2023-06-23'
           - item:
             name: PipelineAI
             homepage_url: https://www.datascienceonaws.com
@@ -14129,6 +14131,7 @@ landscape:
             name: Raytheon (member)
             homepage_url: https://www.rtx.com/
             stock_ticker: null
+            enduser: true
             logo: raytheontechnologies.svg
             crunchbase: https://www.crunchbase.com/organization/raytheon
           - item:
